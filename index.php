@@ -14,7 +14,7 @@
 </head>
 
 <body> 
-<div > <?php include("heade.php") ?> </div>
+<div > <?php include("header.php") ?> </div>
 
 		<script src="js/jquery.js"></script>
         <script src="js/bootstrap.min.js"></script>
